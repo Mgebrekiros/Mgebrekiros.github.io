@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "Aksum University-Shire Campus"
+title: "Aksum University Shire Campus"
 date: "2015-08-05"
 ---
+
+# Location of Shire Campus
+
+<img src="/assets/pictures/shire.png" alt="location of shire campus" style="width: 1000px;"/>
+
 
 # Department of Water Resources and Irrigation Engineering
 
