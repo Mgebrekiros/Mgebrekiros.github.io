@@ -28,3 +28,11 @@ Program   |   B.Sc. Degree In Water Resources and Irrigation Engineering
 - know and apply the different methods of hydro-meteorological data analysis and design in water resources engineering projects.
 
 - appreciate the practical significance of the course in civil and water resources enginnering projects (urban drainage, irrigation drainage, reservior capacity, water supply and hydo power)
+
+**Assessment**
+
+Test   |   10%
+    ---|---
+  Quizzes |  20%
+  Assignment and projects |   30%
+  Final Exam |  40%
