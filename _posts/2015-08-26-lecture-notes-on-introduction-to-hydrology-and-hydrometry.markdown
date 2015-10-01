@@ -36,3 +36,7 @@ Test   |   10%
   Quizzes |  20%
   Assignment and projects |   30%
   Final Exam |  40%
+
+**Handouts**
+
+1. Couse outline <http://Mgebrekiros.github.io/Courseoutline.pdf>
