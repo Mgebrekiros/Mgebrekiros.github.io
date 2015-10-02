@@ -3,7 +3,7 @@ layout: post
 title: " Aksum University Lecture Notes on Introductory Hydrology and Hydrometry"
 date: "2015-08-26"
 ---
-  <img src="/assets/pictures/AkU_Logo.png" alt="AkU_Logo" style="width: 100px;"/>
+  <img src="/assets/pictures/AKU_Logo.png" alt="AkU_Logo" style="width: 100px;"/>
 
 Program   |   B.Sc. Degree In Water Resources and Irrigation Engineering
 ---|---
@@ -39,4 +39,5 @@ Test   |   10%
 
 **Handouts**
 
-1. Couse outline <http://Mgebrekiros.github.io/Courseoutline.pdf>
+1. [**Course outline**](http://Mgebrekiros.github.io/IntroductoryHydrology/Courseoutline.pdf)
+2. [**Introduction**](http://Mgebrekiros.github.io/IntroductoryHydrology/Introduction.pdf)
