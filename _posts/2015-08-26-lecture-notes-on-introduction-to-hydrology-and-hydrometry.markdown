@@ -39,5 +39,10 @@ Test   |   10%
 
 **Handouts**
 
+Click a title below to get a downloadable file in pdf format
+
 1. [**Course outline**](http://Mgebrekiros.github.io/IntroductoryHydrology/Courseoutline.pdf)
 2. [**Introduction**](http://Mgebrekiros.github.io/IntroductoryHydrology/Introduction.pdf)
+3. [**Precipitation**](http://Mgebrekiros.github.io/IntroductoryHydrology/Precipitation.pdf)
+4. [**Evaporation and Transpiration**](http://Mgebrekiros.github.io/IntroductoryHydrology/EvaporationAndTranspiration.pdf)
+5. [**Infiltration**](http://Mgebrekiros.github.io/IntroductoryHydrology/Infiltration.pdf)
