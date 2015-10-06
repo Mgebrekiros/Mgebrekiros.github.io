@@ -47,6 +47,7 @@ Click a title below to get a downloadable file in pdf format
 4. [**Evaporation and Transpiration**](http://Mgebrekiros.github.io/IntroductoryHydrology/EvaporationAndTranspiration.pdf)
 5. [**Infiltration**](http://Mgebrekiros.github.io/IntroductoryHydrology/Infiltration.pdf)
 6. [**Runoff**](http://Mgebrekiros.github.io/IntroductoryHydrology/runoff.pdf)
+7. [**Introduction to Hydrometry**](http://Mgebrekiros.github.io/IntroductoryHydrology/Introduction_Hydrometry.pdf)
 
 **Reference books in Hydrology and Hydraulics**
 
