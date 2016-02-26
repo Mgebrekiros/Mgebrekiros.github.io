@@ -7,7 +7,7 @@ highlighter:
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+
 
 # Setup
 title:            Michale Gebrekiros
