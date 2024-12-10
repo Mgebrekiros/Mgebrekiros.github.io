@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About Me"
-permalink: /aboutme/
+permalink: /about/
 tags: [about, bio, personal]
 ---
 
