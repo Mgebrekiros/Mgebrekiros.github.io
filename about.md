@@ -30,10 +30,7 @@ tags: [about, bio, personal]
   </ul>
 </div>
 
-<!-- Optional image using Markdown (if you prefer this over HTML): -->
-![A picture of me](/assets/pictures/Michale_Gebrekiros.jpg)
-
-<!-- Inline image with styling (if you prefer HTML): -->
+<!-- Profile Image -->
 <img src="/assets/pictures/Michale_Gebrekiros.jpg" alt="Self" class="profile-image"/>
 
 ## About Me
