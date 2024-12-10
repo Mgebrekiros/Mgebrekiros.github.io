@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About Me"
+title: "About Michale Gebrekiros"
 permalink: /about/
 tags: [about, bio, personal]
 ---
