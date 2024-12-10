@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Archive
+layout: default
+title: "Archives"
+permalink: /archives/
 ---
 
-## Blog Posts
+# Blog Archives
 
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
-{% endfor %}
+  <p>{{ post.date | date_to_string }} » <a href="{{ post.url }}">{{ post.title }}</a></p>
+{% endfor%}
