@@ -1,1 +1,31 @@
+# Markdown settings with redcarpet and extensions
+markdown:         redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
+# Syntax Highlighter (optional)
+highlighter: rouge
+
+# Permalink style (pretty URLs)
+permalink:        pretty
+
+# Site information
+title:            Michale Gebrekiros
+tagline:          'Engineering Hydrologist'
+description:      'Engineering Hydrologist'
+url:              http://Mgebrekiros.github.io  # Your site URL
+baseurl:          /  # Set to your subfolder if not using the root URL
+
+# Author info (optional)
+author:
+  name:           'Michale Gebrekiros'
+  
+# Pagination settings
+paginate:         1  # Set to the number of posts per page
+
+# Custom variables
+version:          2.1.0
+
+# GitHub repository link
+github:
+  me: https://github.com/Mgebrekiros
