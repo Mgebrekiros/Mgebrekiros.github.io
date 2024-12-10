@@ -1,7 +1,32 @@
+
 ---
-layout: page
-title: About
+layout: default
 ---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% assign current_tags = page.tags %}
+    {% for post in site.posts %}
+      {% if (post.tags | intersection: current_tags).size > 0 and post.url != page.url %}
+        <li>
+          <h3>
+            <a href="{{ post.url }}">
+              {{ post.title }}
+              <small>{{ post.date | date_to_string }}</small>
+            </a>
+          </h3>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
 
 <!--
 	![A picture of me](/assets/pictures/Michale Gebrekiros.jpg)
